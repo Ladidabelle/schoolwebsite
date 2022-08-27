@@ -1,2 +1,2 @@
 # schoolwebsite
-A glimpse of a school website
+An overview of a school website
